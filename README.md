@@ -2,4 +2,4 @@
 
 ## 채용공고
 
-- [ABC회사 AI Agent 개발자 채용](https://example.com/job/123)
+- [RideFlux 2026 하반기 엔지니어 모집](https://inthiswork.com/archives/393239)
